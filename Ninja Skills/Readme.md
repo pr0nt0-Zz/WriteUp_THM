@@ -120,6 +120,3 @@ Look for `x` in all permission segments (`rwxrwxr-x`)
 
 ---
 
-## 📘 Conclusion
-
-This room served as a great exercise in applying basic Linux command-line tools for forensic-style file analysis. It reinforces the importance of precision, pattern recognition, and thinking logically under constraints — all essential skills in cybersecurity and system administration.
